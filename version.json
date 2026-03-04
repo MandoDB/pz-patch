@@ -1,5 +1,5 @@
 {
-  "version": "0.0.7",
+  "version": "0.0.8",
   "pzVersion": "42.14.1",
   "changelog": "## Nouveautés\n- Détection automatique de la connexion serveur\n- Rich Presence Discord avec compteur de joueurs\n\n## Corrections\n- Fix du lobby qui se remettait en boucle\n- Amélioration de la stabilité du patch",
   "files": [
@@ -20,6 +20,7 @@
     }
   ]
 }
+
 
 
 
