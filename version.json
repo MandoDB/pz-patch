@@ -1,0 +1,21 @@
+{
+  "version": "0.0.1",
+  "pzVersion": "42.14.1",
+  "files": [
+    {
+      "name": "StatePacket.class",
+      "path": "zombie/network/packets/actions/StatePacket.class",
+      "url": "https://raw.githubusercontent.com/TON_USER/pz-patch/main/classes/StatePacket.class"
+    },
+    {
+      "name": "ContainerID.class",
+      "path": "zombie/network/fields/ContainerID.class",
+      "url": "https://raw.githubusercontent.com/TON_USER/pz-patch/main/classes/ContainerID.class"
+    },
+    {
+      "name": "ContainerID$ContainerType.class",
+      "path": "zombie/network/fields/ContainerID$ContainerType.class",
+      "url": "https://raw.githubusercontent.com/TON_USER/pz-patch/main/classes/ContainerID$ContainerType.class"
+    }
+  ]
+}
