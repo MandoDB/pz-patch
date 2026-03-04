@@ -1,6 +1,7 @@
 {
-  "version": "0.0.2",
+  "version": "0.0.3",
   "pzVersion": "42.14.1",
+  "changelog": "## Nouveautés\n- Détection automatique de la connexion serveur\n- Rich Presence Discord avec compteur de joueurs\n\n## Corrections\n- Fix du lobby qui se remettait en boucle\n- Amélioration de la stabilité du patch",
   "files": [
     {
       "name": "StatePacket.class",
@@ -19,4 +20,5 @@
     }
   ]
 }
+
 
