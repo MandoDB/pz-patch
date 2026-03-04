@@ -5,17 +5,17 @@
     {
       "name": "StatePacket.class",
       "path": "zombie/network/packets/actions/StatePacket.class",
-      "url": "https://raw.githubusercontent.com/TON_USER/pz-patch/main/classes/StatePacket.class"
+      "url": "https://github.com/MandoDB/pz-patch/raw/refs/heads/main/classes/StatePacket.class"
     },
     {
       "name": "ContainerID.class",
       "path": "zombie/network/fields/ContainerID.class",
-      "url": "https://raw.githubusercontent.com/TON_USER/pz-patch/main/classes/ContainerID.class"
+      "url": "https://github.com/MandoDB/pz-patch/raw/refs/heads/main/classes/ContainerID.class"
     },
     {
       "name": "ContainerID$ContainerType.class",
       "path": "zombie/network/fields/ContainerID$ContainerType.class",
-      "url": "https://raw.githubusercontent.com/TON_USER/pz-patch/main/classes/ContainerID$ContainerType.class"
+      "url": "https://github.com/MandoDB/pz-patch/raw/refs/heads/main/classes/ContainerID$ContainerType.class"
     }
   ]
 }
