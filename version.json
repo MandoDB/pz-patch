@@ -1,7 +1,7 @@
 {
-  "version": "0.0.9",
+  "version": "1.0.0",
   "pzVersion": "42.14.1",
-  "changelog": "## Nouveautés\n- Détection automatique de la connexion serveur\n- Rich Presence Discord avec compteur de joueurs\n\n## Corrections\n- Fix du lobby qui se remettait en boucle\n- Amélioration de la stabilité du patch",
+  "changelog": "## v1.0.0 — Lancement officiel\n\n**Patch client**\n- Correction du crash réseau `StatePacket` — null check sur `CharacterID.getCharacter()`\n- Correction du crash réseau `ContainerID` — null check sur `InventoryContainer.getItemContainer()`\n- Le patch est injecté automatiquement avant chaque session et retiré à la fermeture du jeu\n\n**Launcher**\n- Détection automatique du dossier Project Zomboid\n- Mise à jour automatique du patch client au démarrage\n- Backup automatique de `projectzomboid.jar` avant chaque injection\n- Restauration automatique en cas de crash du launcher\n- Rich Presence Discord — affichage de la session en cours\n- Mise à jour automatique du launcher via GitHub Releases",
   "files": [
     {
       "name": "StatePacket.class",
@@ -20,11 +20,3 @@
     }
   ]
 }
-
-
-
-
-
-
-
-
