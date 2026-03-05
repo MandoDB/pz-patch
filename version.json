@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "pzVersion": "42.14.1",
-  "changelog": "## v1.0.0 — Lancement officiel\n\n**Patch client**\n- Correction du crash réseau `StatePacket` — null check sur `CharacterID.getCharacter()`\n- Correction du crash réseau `ContainerID` — null check sur `InventoryContainer.getItemContainer()`\n- Le patch est injecté automatiquement avant chaque session et retiré à la fermeture du jeu\n\n**Launcher**\n- Détection automatique du dossier Project Zomboid\n- Mise à jour automatique du patch client au démarrage\n- Backup automatique de `projectzomboid.jar` avant chaque injection\n- Restauration automatique en cas de crash du launcher\n- Rich Presence Discord — affichage de la session en cours\n- Mise à jour automatique du launcher via GitHub Releases",
+  "changelog": "# v1.0.1 - Ajout des mods lancé automatiquement\n- Ajout du mod TombBody\n- Ajout du mod TombBodyCompat\n- Ajout du mod TombBodyTexNUDE\n# Important :\n- Vous pouvez désactiver les mods directemet via le launcher",
   "files": [
     {
       "name": "StatePacket.class",
@@ -20,3 +20,4 @@
     }
   ]
 }
+
