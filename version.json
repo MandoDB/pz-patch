@@ -1,5 +1,5 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "pzVersion": "42.14.1",
   "changelog": "# v1.2.0 - Correctifs VOIP radio et desync réseau\n- Correction du bug de radio VOIP intermittente (parfois on s'entend, parfois non)\n- Correction overflow coordonnées radio sur grandes maps (short → int)\n- Correction précision distance radio (int → float)\n- Correction race conditions sur les listes VOIP (thread-safety)\n- Correction timer VOIP dérivant après un lag spike\n- Correction fallback radio invalide (on pouvait s'entendre sans radio allumée)\n- Correction lecture distance côté client (getInt → getFloat)\n- Modification du CharacterID\n- Ajout de la possibilité de minimiser le launcher\n- Sortie de la version Linux du launcher",
   "files": [
@@ -80,4 +80,5 @@
     }
   ]
 }
+
 
