@@ -1,9 +1,10 @@
 {
   "mods": [
-    { "id": "Lsmenu" ,"LS Menu"},
+    { "id": "Lsmenu", "name": "LS Menu"},
     { "id": "TombBody", "name": "Tomb's Player Body Overhaul"},
     { "id": "TombBodyTexNUDE", "name": "Tomb's Player Body Overhaul - Nude Textures", "require": "TombBody"},
     { "id": "TombBodyCompat", "name": "Tomb's Player Body Overhaul - Compatibility", "require": "TombBody"}
   ]
 
 }
+
