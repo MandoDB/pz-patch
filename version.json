@@ -44,9 +44,39 @@
       "url": "https://github.com/MandoDB/pz-patch/raw/refs/heads/main/classes/VoiceManager.class"
     },
     {
+      "name": "VoiceManager$1.class",
+      "path": "zombie/core/raknet/VoiceManager$1.class",
+      "url": "https://github.com/MandoDB/pz-patch/raw/refs/heads/main/classes/VoiceManager$1.class"
+    },
+    {
+      "name": "VoiceManager$2.class",
+      "path": "zombie/core/raknet/VoiceManager$2.class",
+      "url": "https://github.com/MandoDB/pz-patch/raw/refs/heads/main/classes/VoiceManager$2.class"
+    },
+    {
+      "name": "VoiceManager$3.class",
+      "path": "zombie/core/raknet/VoiceManager$3.class",
+      "url": "https://github.com/MandoDB/pz-patch/raw/refs/heads/main/classes/VoiceManager$3.class"
+    },
+    {
+      "name": "VoiceManager$4.class",
+      "path": "zombie/core/raknet/VoiceManager$4.class",
+      "url": "https://github.com/MandoDB/pz-patch/raw/refs/heads/main/classes/VoiceManager$4.class"
+    },
+    {
       "name": "GameClient.class",
       "path": "zombie/network/GameClient.class",
       "url": "https://github.com/MandoDB/pz-patch/raw/refs/heads/main/classes/GameClient.class"
+    },
+    {
+      "name": "GameClient$1.class",
+      "path": "zombie/network/GameClient$1.class",
+      "url": "https://github.com/MandoDB/pz-patch/raw/refs/heads/main/classes/GameClient$1.class"
+    },
+    {
+      "name": "GameClient$RequestState.class",
+      "path": "zombie/network/GameClient$RequestState.class",
+      "url": "https://github.com/MandoDB/pz-patch/raw/refs/heads/main/classes/GameClient$RequestState.class"
     }
   ]
 }
