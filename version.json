@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
+  "version": "1.1.0",
   "pzVersion": "42.14.1",
-  "changelog": "# v1.0.1 - Ajout des mods lancé automatiquement\n- Ajout du mod TombBody\n- Ajout du mod TombBodyCompat\n- Ajout du mod TombBodyTexNUDE\n# Important :\n- Vous pouvez désactiver les mods directemet via le launcher",
+  "changelog": "# v1.1.0 - Améliorations du launcher et patches\n- Modification du CharacterID qui pouvais causer des desync\n- Ajout de la possibilité de minimiser le launcher\n- Sortie de la version Linux du launcher",
   "files": [
     {
       "name": "StatePacket.class",
@@ -20,4 +20,3 @@
     }
   ]
 }
-
