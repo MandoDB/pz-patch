@@ -1,7 +1,7 @@
 {
-  "version": "1.2.3",
+  "version": "1.2.4",
   "pzVersion": "42.14.1",
-  "changelog": "Je règles des trucs cassé",
+  "changelog": "Modif du CharacterID.java qui pouvais causer des retards sur les paquets",
   "backupJar": "https://la-station.org/fileshost/projectzomboid.jar",
   "files": [
     {
@@ -26,5 +26,6 @@
     }
   ]
 }
+
 
 
