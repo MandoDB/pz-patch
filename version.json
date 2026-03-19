@@ -1,7 +1,7 @@
 {
-  "version": "1.2.4",
-  "pzVersion": "42.14.1",
-  "changelog": "Modif du CharacterID.java qui pouvais causer des retards sur les paquets",
+  "version": "1.3.0",
+  "pzVersion": "42.15.2",
+  "changelog": "Mise à jour pour la 42.15.2 (Beaucoup de modif car ils ont changé les fichiers)",
   "backupJar": "https://la-station.org/fileshost/projectzomboid.jar",
   "files": [
     {
