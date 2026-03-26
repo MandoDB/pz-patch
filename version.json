@@ -1,5 +1,5 @@
 {
-  "version": "1.4.1",
+  "version": "1.4.2",
   "pzVersion": "42.15.2",
   "changelog": "## Nouvelle architecture\n- Le launcher n'injecte plus dans projectzomboid.jar\n- Chargement de notre JAR via le classpath du jeu\n\n## Amélioration\n- Avertissement automatique si la RAM n'a pas été configurée\n- Ouverture des paramètres RAM en un clic depuis l'avertissement\n\n## Corrections\n- Restauration automatique de la config à chaque fermeture du jeu\n- Nettoyage des fichiers temporaires au démarrage si crash précédent détecté",
   "jarUrl": "https://github.com/MandoDB/pz-patch/raw/refs/heads/main/la-station.jar",
