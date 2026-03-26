@@ -1,31 +1,7 @@
 {
-  "version": "1.3.0",
+  "version": "1.4.0",
   "pzVersion": "42.15.2",
   "changelog": "Mise à jour pour la 42.15.2 (Beaucoup de modif car ils ont changé les fichiers)",
-  "backupJar": "https://la-station.org/fileshost/projectzomboid.jar",
-  "files": [
-    {
-      "name": "StatePacket.class",
-      "path": "zombie/network/packets/actions/StatePacket.class",
-      "url": "https://github.com/MandoDB/pz-patch/raw/refs/heads/main/classes/StatePacket.class"
-    },
-    {
-      "name": "ContainerID.class",
-      "path": "zombie/network/fields/ContainerID.class",
-      "url": "https://github.com/MandoDB/pz-patch/raw/refs/heads/main/classes/ContainerID.class"
-    },
-    {
-      "name": "ContainerID$ContainerType.class",
-      "path": "zombie/network/fields/ContainerID$ContainerType.class",
-      "url": "https://github.com/MandoDB/pz-patch/raw/refs/heads/main/classes/ContainerID$ContainerType.class"
-    },
-    {
-      "name": "CharacterID.class",
-      "path": "zombie/network/fields/character/CharacterID.class",
-      "url": "https://github.com/MandoDB/pz-patch/raw/refs/heads/main/classes/CharacterID.class"
-    }
-  ]
+  "jarUrl": "https://github.com/MandoDB/pz-patch/raw/refs/heads/main/la-station.jar",
+  "jarName": "la-station.jar",
 }
-
-
-
