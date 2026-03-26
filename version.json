@@ -3,5 +3,5 @@
   "pzVersion": "42.15.2",
   "changelog": "Mise à jour pour la 42.15.2 (Beaucoup de modif car ils ont changé les fichiers)",
   "jarUrl": "https://github.com/MandoDB/pz-patch/raw/refs/heads/main/la-station.jar",
-  "jarName": "la-station.jar",
+  "jarName": "la-station.jar"
 }
